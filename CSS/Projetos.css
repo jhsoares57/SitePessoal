@@ -17,6 +17,11 @@ div.Projetos h4{
      color: white;
  
 }
+div.Projetos h2{
+    /* border-radius: 15px 50px;*/
+     color: white;
+ 
+}
 div.Projetos p{
    /* border-radius: 15px 50px;*/
     color: white;
